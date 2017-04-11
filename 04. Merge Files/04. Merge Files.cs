@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
 namespace _04.Merge_Files
 {
-   public class Program
+    public class Program
     {
        public static void Main()
         {
